@@ -714,7 +714,8 @@
       "minecraft:spider": "2025-08-01 20:38:31 +0000",
       "minecraft:zombie": "2025-08-01 20:42:10 +0000",
       "minecraft:creeper": "2025-08-03 20:01:59 +0000",
-      "minecraft:drowned": "2025-08-01 21:08:12 +0000"
+      "minecraft:drowned": "2025-08-01 21:08:12 +0000",
+      "minecraft:slime": "2025-08-03 21:35:06 +0000"
     },
     "done": false
   },
@@ -1819,6 +1820,12 @@
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-08-03 20:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-08-03 21:38:12 +0000"
     },
     "done": true
   },

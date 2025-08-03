@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-03 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-08-03 20:07:48 +0000"
@@ -995,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-08-03 21:38:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-03 19:57:06 +0000"
@@ -1016,6 +1028,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-03 19:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-03 21:38:46 +0000"
     },
     "done": true
   },
@@ -1205,7 +1223,8 @@
       "minecraft:breeze": "2025-08-03 20:07:47 +0000",
       "minecraft:stray": "2025-08-03 20:03:17 +0000",
       "minecraft:spider": "2025-08-03 19:57:41 +0000",
-      "minecraft:zombie": "2025-08-03 20:09:07 +0000"
+      "minecraft:zombie": "2025-08-03 20:09:07 +0000",
+      "minecraft:slime": "2025-08-03 21:35:10 +0000"
     },
     "done": false
   },
@@ -1254,6 +1273,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-03 19:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-03 21:35:13 +0000"
     },
     "done": true
   },
