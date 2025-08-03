@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-03 21:15:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:01:41 +0000"
@@ -1613,6 +1619,7 @@
       "mutton": "2025-08-03 19:31:06 +0000",
       "bread": "2025-08-03 20:18:02 +0000",
       "cooked_chicken": "2025-08-03 20:08:12 +0000",
+      "honey_bottle": "2025-08-03 21:14:50 +0000",
       "beef": "2025-08-03 19:31:35 +0000",
       "baked_potato": "2025-08-03 20:09:35 +0000",
       "porkchop": "2025-08-03 20:21:29 +0000",
