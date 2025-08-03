@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-08-03 20:26:49 +0000",
       "minecraft:savanna_plateau": "2025-08-01 20:31:52 +0000",
       "minecraft:snowy_slopes": "2025-08-01 20:38:49 +0000",
       "minecraft:beach": "2025-08-01 21:04:45 +0000",
@@ -18,6 +19,7 @@
       "minecraft:lush_caves": "2025-08-01 21:13:38 +0000",
       "minecraft:dripstone_caves": "2025-08-03 19:34:35 +0000",
       "minecraft:jungle": "2025-08-01 21:07:09 +0000",
+      "minecraft:sunflower_plains": "2025-08-03 20:27:51 +0000",
       "minecraft:savanna": "2025-08-01 20:31:11 +0000",
       "minecraft:plains": "2025-08-01 20:02:41 +0000"
     },
@@ -707,6 +709,7 @@
       "minecraft:magma_cube": "2025-08-03 19:49:54 +0000",
       "minecraft:spider": "2025-08-01 20:38:31 +0000",
       "minecraft:zombie": "2025-08-01 20:42:10 +0000",
+      "minecraft:creeper": "2025-08-03 20:01:59 +0000",
       "minecraft:drowned": "2025-08-01 21:08:12 +0000"
     },
     "done": false
@@ -1776,6 +1779,30 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-03 19:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-03 20:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-03 20:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-03 20:02:01 +0000"
     },
     "done": true
   },
