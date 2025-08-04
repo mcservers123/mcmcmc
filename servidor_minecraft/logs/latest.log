@@ -56,3 +56,6 @@
 [01:37:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [01:59:51] [Server thread/INFO]: ___MR_BANANA___[/127.80.255.4:40617] logged in with entity id 120350 at (1653.9129474641857, 70.0, 144.81844297957306)
 [01:59:51] [Server thread/INFO]: ___MR_BANANA___ joined the game
+[02:10:48] [Server thread/INFO]: Villager class_1646['Librarian'/120368, l='ServerLevel[world]', x=1651.60, y=70.00, z=133.45] died, message: 'Librarian was slain by ___MR_BANANA___'
+[02:12:18] [Server thread/INFO]: Set ___MR_BANANA___'s game mode to Creative Mode
+[02:12:50] [Server thread/INFO]: Set ___MR_BANANA___'s game mode to Survival Mode
