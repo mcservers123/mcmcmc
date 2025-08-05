@@ -709,11 +709,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:cave_spider": "2025-08-01 21:00:29 +0000",
       "minecraft:skeleton": "2025-08-01 21:01:55 +0000",
       "minecraft:phantom": "2025-08-04 00:39:41 +0000",
+      "minecraft:cave_spider": "2025-08-01 21:00:29 +0000",
       "minecraft:breeze": "2025-08-03 20:32:41 +0000",
       "minecraft:stray": "2025-08-03 20:39:17 +0000",
+      "minecraft:enderman": "2025-08-05 01:39:09 +0000",
       "minecraft:magma_cube": "2025-08-03 19:49:54 +0000",
       "minecraft:spider": "2025-08-01 20:38:31 +0000",
       "minecraft:zombie": "2025-08-01 20:42:10 +0000",
