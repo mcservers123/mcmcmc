@@ -1271,6 +1271,7 @@
       "minecraft:spider": "2025-08-03 19:57:41 +0000",
       "minecraft:zombie": "2025-08-03 20:09:07 +0000",
       "minecraft:creeper": "2025-08-05 01:00:32 +0000",
+      "minecraft:drowned": "2025-08-05 02:18:37 +0000",
       "minecraft:slime": "2025-08-03 21:35:10 +0000"
     },
     "done": false
@@ -2535,6 +2536,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-05 02:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-05 02:25:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-08-05 01:22:52 +0000"
@@ -2550,6 +2563,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-08-05 01:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-05 02:25:44 +0000"
     },
     "done": true
   },
@@ -2622,6 +2641,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-05 01:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-05 02:25:44 +0000"
     },
     "done": true
   },
@@ -2721,6 +2746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-05 02:25:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-05 01:34:06 +0000"
@@ -2775,6 +2806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-05 02:25:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-08-05 02:07:59 +0000"
@@ -2790,6 +2827,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-05 01:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-05 02:25:44 +0000"
     },
     "done": true
   },
