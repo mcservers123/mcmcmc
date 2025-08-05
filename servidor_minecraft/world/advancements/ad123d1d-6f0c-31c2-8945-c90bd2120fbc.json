@@ -10,12 +10,14 @@
       "minecraft:flower_forest": "2025-08-03 19:35:11 +0000",
       "minecraft:beach": "2025-08-03 19:32:57 +0000",
       "minecraft:forest": "2025-08-03 19:27:44 +0000",
+      "minecraft:taiga": "2025-08-05 00:53:54 +0000",
       "minecraft:sparse_jungle": "2025-08-03 19:27:56 +0000",
+      "minecraft:river": "2025-08-03 19:35:02 +0000",
+      "minecraft:dripstone_caves": "2025-08-03 19:52:35 +0000",
       "minecraft:jungle": "2025-08-04 23:18:56 +0000",
       "minecraft:sunflower_plains": "2025-08-03 19:33:28 +0000",
       "minecraft:cherry_grove": "2025-08-05 00:16:24 +0000",
-      "minecraft:river": "2025-08-03 19:35:02 +0000",
-      "minecraft:dripstone_caves": "2025-08-03 19:52:35 +0000",
+      "minecraft:meadow": "2025-08-05 00:50:16 +0000",
       "minecraft:savanna": "2025-08-03 19:31:49 +0000",
       "minecraft:plains": "2025-08-03 19:29:04 +0000"
     },
@@ -1267,6 +1269,7 @@
       "minecraft:stray": "2025-08-03 20:03:17 +0000",
       "minecraft:spider": "2025-08-03 19:57:41 +0000",
       "minecraft:zombie": "2025-08-03 20:09:07 +0000",
+      "minecraft:creeper": "2025-08-05 01:00:32 +0000",
       "minecraft:slime": "2025-08-03 21:35:10 +0000"
     },
     "done": false
@@ -2420,6 +2423,30 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-08-05 00:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-05 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-05 00:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-05 01:00:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-05 01:00:33 +0000"
     },
     "done": true
   },
