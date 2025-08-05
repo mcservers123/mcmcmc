@@ -1,39 +1,24 @@
-[22:47:52] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[22:47:52] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.16.14
-	   \-- mixinextras 0.4.1
-	- java 21
-	- minecraft 1.21.8
-[22:47:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/mcmcmc/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:47:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:48:00] [main/INFO]: Loaded 1407 recipes
-[22:48:00] [main/INFO]: Loaded 1520 advancements
-[22:48:00] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:48:00] [Server thread/INFO]: Loading properties
-[22:48:00] [Server thread/INFO]: Default game type: SURVIVAL
-[22:48:00] [Server thread/INFO]: Generating keypair
-[22:48:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:48:00] [Server thread/INFO]: Using epoll channel type
-[22:48:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:48:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:48:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:48:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:48:00] [Server thread/INFO]: Preparing level "world"
-[22:48:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:48:05] [Server thread/INFO]: Time elapsed: 4195 ms
-[22:48:05] [Server thread/INFO]: Done (4.508s)! For help, type "help"
-[22:49:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:53:41] [Server thread/INFO]: Sirlancelot450[/127.204.150.58:60617] logged in with entity id 11 at (1754.699999988079, -17.0, 110.40862019714349)
-[22:53:41] [Server thread/INFO]: Sirlancelot450 joined the game
-[22:53:57] [Server thread/INFO]: Sirlancelot450 burned to death
-[22:54:55] [Server thread/INFO]: Sirlancelot450 tried to swim in lava to escape Stray
-[22:56:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1748, y=-13, z=55} class_2338{x=1749, y=-15, z=54}
+[00:03:32] [Server thread/INFO]: [Not Secure] <Sirlancelot450> time set day
+[00:03:36] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> X
+[00:03:59] [Server thread/INFO]: [Not Secure] <Sirlancelot450> no se ve una mierda
+[00:07:03] [Server thread/INFO]: Sirlancelot450 fell from a high place
+[00:07:05] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> X
+[00:07:16] [Server thread/INFO]: [Not Secure] <Sirlancelot450> soi la cabra tio
+[00:07:57] [Server thread/INFO]: [Not Secure] <Sirlancelot450> duerme
+[00:08:09] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> n
+[00:08:13] [Server thread/INFO]: [Not Secure] <Sirlancelot450> s
+[00:08:33] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> necesito xp
+[00:08:40] [Server thread/INFO]: [Not Secure] <Sirlancelot450> tradeando sale eso
+[00:09:03] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> ya no
+[00:09:08] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> ya tradee mucho
+[00:09:16] [Server thread/INFO]: [Not Secure] <Sirlancelot450> yo dije los mataste
+[00:09:28] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> deberia hacerlo
+[00:09:30] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> muejeej
+[00:09:39] [Server thread/INFO]: [Not Secure] <Sirlancelot450> ay virgencita
+[00:10:56] [Server thread/INFO]: Sirlancelot450 lost connection: Disconnected
+[00:10:56] [Server thread/INFO]: Sirlancelot450 left the game
+[00:11:00] [Server thread/INFO]: Sirlancelot450[/127.204.150.58:43993] logged in with entity id 16128 at (-23.63356887571779, 72.0, -326.3796222573771)
+[00:11:00] [Server thread/INFO]: Sirlancelot450 joined the game
+[00:11:04] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> deberia matar el aldeano con mending
+[00:11:20] [Server thread/INFO]: [Not Secure] <Sirlancelot450> mending en 2025
+[00:11:32] [Server thread/INFO]: [Not Secure] <___MR_BANANA___> y luego el de prote 4
